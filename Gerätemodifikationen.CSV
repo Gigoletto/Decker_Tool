@@ -1,0 +1,22 @@
+Name;Kategorie;Angrifssmodul;Schleichenmodul;Datenverarbeitungsmodul;Firewallmodul;Bonus Zustandsmonitor
+Modul Hinzufügen;Gerätemodifikationen;;;;;
+Matrixattribut Erhöhen (Schleicher);Gerätemodifikationen;;1;;;-2
+Matrixattribut Erhöhen (Angriff);Gerätemodifikationen;1;;;;-2
+Matrixattribut Erhöhen (Datenverarbeitung);Gerätemodifikationen;;;1;;-2
+Matrixattribut Erhöhen (Firewall);Gerätemodifikationen;;;;1;-2
+Matrixattribut Senken (Schleicher);Gerätemodifikationen;;-1;;;2
+Matrixattribut Senken (Angriff);Gerätemodifikationen;-1;;;;2
+Matrixattribut Senken (Datenverarbeitung);Gerätemodifikationen;;;-1;;2
+Matrixattribut Senken (Firewall);Gerätemodifikationen;;;;-1;2
+Matrixattribut Modifizieren (Angriff steigern, Schleicher senken);Gerätemodifikationen;1;-1;;;
+Matrixattribut Modifizieren (Angriff steigern, Datenverarbeitung senken);Gerätemodifikationen;1;;-1;;
+Matrixattribut Modifizieren (Angriff steigern, Firewall senken);Gerätemodifikationen;1;;;-1;
+Matrixattribut Modifizieren (Schleichern steigern, Angriff senken);Gerätemodifikationen;-1;1;;;
+Matrixattribut Modifizieren (Schleichern steigern, Datenverarbeitung senken);Gerätemodifikationen;;1;-1;;
+Matrixattribut Modifizieren (Schleichern steigern, Firewall senken);Gerätemodifikationen;;1;;-1;
+Matrixattribut Modifizieren (Datenverarbeitung erhöhen, Angriff senken);Gerätemodifikationen;-1;;1;;
+Matrixattribut Modifizieren (Datenverarbeitung erhöhen, Schleicher senken);Gerätemodifikationen;;-1;1;;
+Matrixattribut Modifizieren (Datenverarbeitung erhöhen, Firewall senken);Gerätemodifikationen;;;1;-1;
+Matrixattribut Modifizieren (Firewall steigern, Angriff senken);Gerätemodifikationen;-1;;;1;
+Matrixattribut Modifizieren (Firewall steigern, Schleicher senken);Gerätemodifikationen;;-1;;1;
+Matrixattribut Modifizieren (Firewall steigern, Datenverarbeitung senken);Gerätemodifikationen;;;-1;1;
